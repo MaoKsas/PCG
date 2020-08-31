@@ -1,0 +1,25 @@
+
+ - 05:19:45   Info: 
+
+------------------------------ - Start FILLED CARD PUBLISHERS # 20200721-------------------------------
+
+
+ - 05:19:45   Info: Wait a moment to that process finaly
+
+ - 05:19:45   Error: One or more errors occurred.
+
+ - 05:19:45   Error: InnerException Error (1): The process cannot access the file 'C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\mapping_Fields_Code_vs_PDFfViewMacros-DESKTOP-3O4H27U.xlsm' because it is being used by another process.
+
+ - 05:19:45   Info: Process End Success Time 00:00:00.6856203
+
+ - 05:20:26   Info: 
+
+------------------------------ - Start FILLED CARD PUBLISHERS # 20200721-------------------------------
+
+
+ - 05:20:26   Info: Wait a moment to that process finaly
+
+ - 05:20:52   Info: Data has been assigned in PDF format: TOTAL Groups = 5 
+ Publishers Update 
+
+ - 05:21:17   Info: Process End Success Time 00:00:51.2528064

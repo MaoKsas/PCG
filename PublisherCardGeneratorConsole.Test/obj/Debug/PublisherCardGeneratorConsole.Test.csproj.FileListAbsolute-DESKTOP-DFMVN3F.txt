@@ -1,0 +1,72 @@
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.exe.config
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.exe
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.pdb
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\itextsharp.dll
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGenerator.dll
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.dll
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGenerator.pdb
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\itextsharp.xml
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.xml
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csproj.CopyComplete
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.exe
+C:\Users\Mauricio\Documents\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.pdb
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.exe.config
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.exe
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.pdb
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\itextsharp.dll
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGenerator.dll
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.dll
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGenerator.pdb
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\itextsharp.xml
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.xml
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csproj.CopyComplete
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.exe
+C:\Users\Mauricio\Documents\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.pdb
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.exe.config
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.exe
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.pdb
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\itextsharp.dll
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGenerator.dll
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.dll
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGenerator.pdb
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\itextsharp.xml
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.pdb
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.xml
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csprojAssemblyReference.cache
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csproj.CoreCompileInputs.cache
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csproj.CopyComplete
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.exe
+C:\Users\metal\OneDrive\Documentos\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.pdb
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.exe.config
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.exe
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGeneratorConsole.Test.pdb
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\itextsharp.dll
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGenerator.dll
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.dll
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\PublisherCardGenerator.pdb
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\itextsharp.xml
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.pdb
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.xml
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csprojAssemblyReference.cache
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csproj.CoreCompileInputs.cache
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.csproj.CopyComplete
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.exe
+C:\Users\metal\OneDrive\Documentos\Congregacion\Mis Apps\PCG\PublisherCardGeneratorConsole.Test\obj\Debug\PublisherCardGeneratorConsole.Test.pdb
